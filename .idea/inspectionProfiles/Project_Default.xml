@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.http.*" />
+          <option value="django.core.wsgi.get_wsgi_application" />
+          <option value="django.conf.urls.path" />
+          <option value="django.shortcuts.render" />
+          <option value="django.urls.path" />
+          <option value="django.shortcuts.redirect" />
+          <option value="django.urls.include" />
+          <option value="django.urls.re_path" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
